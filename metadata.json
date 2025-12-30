@@ -1,0 +1,5 @@
+{
+  "name": "Aula Generativa: Simulacro Social",
+  "description": "Una adaptación del paper 'Generative Agents' de Stanford/Google en un entorno de salón de clases. Define personalidades de alumnos y observa cómo interactúan, piensan y reaccionan usando Gemini AI.",
+  "requestFramePermissions": []
+}
